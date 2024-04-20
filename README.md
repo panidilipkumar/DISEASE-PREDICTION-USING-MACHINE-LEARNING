@@ -49,4 +49,6 @@ Disease Recommendation will be available infront of the labels of algorithm of u
 Step 5:
 Click on "Reset" button to predict the disease for any other patient or Press "Exit System" button to come out of the GUI.
 
-A picture of GUI Interface
+
+ 
+
